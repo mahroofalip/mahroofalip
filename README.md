@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahroofalip
+- 👋 Hi, I’m mahroof ali p
 - 👀 I’m interested in Html,css,javascript,node js , mongo db ,express, ajax, react  
 - 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on ...
